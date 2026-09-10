@@ -50,7 +50,7 @@ operation emits the digest-bound `data/all.jsonl` projection.
 - Benefits program catalog or eligibility rules. Those live in GiveCare's internal benefits pipeline.
 - Production benchmark runner, model adapters, or judge code. Use this repo as data, not as a runner.
 - Private runtime traces, prompts, user data, or memory records.
-- CWBS-14 content. GiveCare uses it with permission in product, but redistribution rights are not confirmed.
+- CWBS-14 content. GiveCare has permission to use it but does not currently use it in the product. Redistribution rights are not confirmed.
 
 ## Record format
 
